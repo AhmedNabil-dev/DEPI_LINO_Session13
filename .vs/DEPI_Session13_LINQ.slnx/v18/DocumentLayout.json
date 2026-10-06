@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Depi_fullstack\\Tech\\C#\\LINQ\\Session 13\\DEPI_Session13_LINQ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3418F1B5-55EC-F2B9-A1AF-DA9E5DB0830E}|DEPI_Session13_LINQ\\DEPI_Session13_LINQ.csproj|c:\\depi_fullstack\\tech\\c#\\linq\\session 13\\depi_session13_linq\\depi_session13_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3418F1B5-55EC-F2B9-A1AF-DA9E5DB0830E}|DEPI_Session13_LINQ\\DEPI_Session13_LINQ.csproj|solutionrelative:depi_session13_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3418F1B5-55EC-F2B9-A1AF-DA9E5DB0830E}|DEPI_Session13_LINQ\\DEPI_Session13_LINQ.csproj|c:\\depi_fullstack\\tech\\c#\\linq\\session 13\\depi_session13_linq\\depi_session13_linq\\listgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3418F1B5-55EC-F2B9-A1AF-DA9E5DB0830E}|DEPI_Session13_LINQ\\DEPI_Session13_LINQ.csproj|solutionrelative:depi_session13_linq\\listgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Depi_fullstack\\Tech\\C#\\LINQ\\Session 13\\DEPI_Session13_LINQ\\DEPI_Session13_LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "DEPI_Session13_LINQ\\Program.cs",
+              "ToolTip": "C:\\Depi_fullstack\\Tech\\C#\\LINQ\\Session 13\\DEPI_Session13_LINQ\\DEPI_Session13_LINQ\\Program.cs",
+              "RelativeToolTip": "DEPI_Session13_LINQ\\Program.cs",
+              "ViewState": "AgIAABcCAAAAUDAzMzPjvwsCAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T04:57:11.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListGenerators.cs",
+              "DocumentMoniker": "C:\\Depi_fullstack\\Tech\\C#\\LINQ\\Session 13\\DEPI_Session13_LINQ\\DEPI_Session13_LINQ\\ListGenerators.cs",
+              "RelativeDocumentMoniker": "DEPI_Session13_LINQ\\ListGenerators.cs",
+              "ToolTip": "C:\\Depi_fullstack\\Tech\\C#\\LINQ\\Session 13\\DEPI_Session13_LINQ\\DEPI_Session13_LINQ\\ListGenerators.cs",
+              "RelativeToolTip": "DEPI_Session13_LINQ\\ListGenerators.cs",
+              "ViewState": "AgIAAAYAAACALjMzMzMrwEQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T05:04:28.912Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
